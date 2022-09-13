@@ -116,6 +116,8 @@ A curated list of awesome semiconductor startups.
 * [Pensando](https://pensando.io/)
 * [Perceive](https://perceive.io)
 * [Picocom](https://picocom.com/)
+* [Plumerai](https://plumerai.com/)
+ 	* AI accelerator IP core for tiny FPGAs or ASICs.
 * [PQShield](https://pqshield.com/)
 	* Hardware co-processors and sub-systems for Post-quantum Cryptography.
 * [PragmatiC](https://www.pragmaticsemi.com/)
