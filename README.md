@@ -107,6 +107,7 @@ A curated list of awesome semiconductor startups.
 * [Mythic](https://www.mythic-ai.com/)
 * [Neuchips](https://www.neuchips.ai/)
 * [NeuroBlade](https://www.neuroblade.com/)
+* [NeuReality](https://www.neureality.ai/)
 * [NextSilicon](https://www.nextsilicon.com/home)
 * [Novumind](https://www.novumind.com/)
 * [Nyriad](https://www.nyriad.io/)
